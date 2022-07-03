@@ -1,0 +1,16 @@
+#todo-1:hover {
+	background-color: blue !important;
+}
+#todo-2 {
+	cursor: pointer;
+}
+.container.mt-4.text-center  {
+	/* border: red solid 2px; */
+	justify-content: center;
+	height: 90vh;
+
+}
+
+#headerMouseEvents{
+	font-family: 'Josefin Sans', sans-serif;
+}
